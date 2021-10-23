@@ -4,6 +4,7 @@
 
 
 Notebook was created and edited using Google Colaboratory (Python 3).
+
 Dependencies:
 * pandas
 * matplotlib
